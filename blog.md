@@ -211,7 +211,7 @@ This generates a `dist` folder in the `todo-components` app containing a `remote
 Serve the remote app locally:
 
 ```bash
-npx serve dist
+npm run preview
 ```
 
 This serves the remote app on port 3000.
